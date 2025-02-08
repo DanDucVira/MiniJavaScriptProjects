@@ -1,0 +1,25 @@
+body{
+    background:#D1F8EF;
+    margin: 0 auto;
+
+}
+
+#container{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+
+
+}
+input{
+    padding: 10px 40px;
+
+}
+#btn{
+    background:#578FCA;
+    border:none;
+    padding: 15px 55px;
+    color: #D1F8EF;
+    margin-left: 10px;
+}
