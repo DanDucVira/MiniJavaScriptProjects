@@ -10,3 +10,6 @@
 button{
  padding: 10px 35px;
 }
+button:hover{
+    cursor: pointer;
+}
